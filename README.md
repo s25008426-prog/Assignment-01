@@ -1,2 +1,5 @@
-# Assignment-01
-This repository for my COE3200 assignment and the python script print greeting massage.
+# Hello Python
+This repository is created as part of the COE3200 - Communication Skills for Computing assignment.
+It demonstrates how Github is used as a non-verbal communication tool in the industry.
+## What the python Script Does
+The 'hello.py' script prints a simple greeting message to the screen.
